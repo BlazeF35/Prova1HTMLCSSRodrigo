@@ -1,0 +1,50 @@
+div.content {
+    width: 900px;
+    height: 900px;
+    border: 1px solid black;
+    margin: 35px auto;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.imagem1{
+    margin-top: -40px;
+    margin-left: 100px;
+    margin-right: 60px;
+    padding: 5px;
+}
+
+.imagem2{
+    margin-left: 60px;
+    margin-right: 40px;
+    padding: 5px;
+}
+
+.imagem3{
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 5px;
+}
+
+.imagem4{
+    margin-left: 103px;
+    margin-right: 60px;
+    padding: 5px;
+}
+
+.imagem5{
+    margin-left: 45px;
+    margin-right: 60px;
+    padding: 5px;
+}
+
+.imagem6{
+    margin-left: -23px;
+    margin-right: 60px;
+    padding: 5px;
+}
